@@ -1,0 +1,34 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x126)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\My Unity Projects\2d Box Stacker - ep05\Box Stacker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\My Unity Projects\2d Box Stacker - ep05\Box Stacker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\My Unity Projects\2d Box Stacker - ep05\Box Stacker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\My Unity Projects\2d Box Stacker - ep05\Box Stacker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.203 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+OnTriggerEnter2D
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 37.975842 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 179.
+Total: 1.767712 ms (FindLiveObjects: 0.066504 ms CreateObjectMapping: 0.033662 ms MarkObjects: 0.463891 ms  DeleteObjects: 0.026683 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
